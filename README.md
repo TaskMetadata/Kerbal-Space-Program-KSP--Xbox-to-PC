@@ -83,7 +83,7 @@ q\
 
 - qwerty
   - yuiop
-  - tyui\
+  - tyui
 
   - ghjkl
   - dfgh
